@@ -1,7 +1,12 @@
 import React from "react";
+import Header from './components/Header'
+import Generator from './components/Generator'
+
+import './css/global.css'
 
 export default () => (
   <>
-    <h1>My React Website</h1>
+    <Header />
+    <Generator />
   </>
-);
+)
