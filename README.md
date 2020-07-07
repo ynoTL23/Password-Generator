@@ -7,3 +7,7 @@ A password generation tool made with React.
 Clone the repo and install dependencies: `npm install`
 
 Run the server: `npm run start` and visit `http://localhost:1234`
+
+---
+## Demo
+<center><img src="./assets/demo.gif"></center>
